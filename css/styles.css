@@ -144,6 +144,7 @@ main {
         flex-direction: row;
         align-items: stretch;
         max-width: 900px;
+        max-height: 550px;
     }
 
     .image,
