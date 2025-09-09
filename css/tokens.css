@@ -1,0 +1,24 @@
+:root {
+    /* Colors */
+    --color-white: #ffffff;
+    --color-green-500: #3d8168;
+    --color-green-700: #1a4032;
+    --color-grey: #6c7289;
+    --color-black: #1c232b;
+    --color-cream: #f2eae2;
+
+    /* Fonts */
+    --font-size-text-preset-1: 32px;
+    --font-size-text-preset-2: 14px;
+    --font-size-text-preset-3: 14px;
+    --font-size-text-preset-4: 12px;
+    --font-size-text-preset-5: 13px;
+
+    /* Spacing */
+    --spacing-50: 4px;
+    --spacing-100: 8px;
+    --spacing-200: 16px;
+    --spacing-300: 24px;
+    --spacing-400: 32px;
+    --spacing-500: 40px;
+}
