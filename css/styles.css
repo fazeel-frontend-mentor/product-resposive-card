@@ -36,7 +36,6 @@ main {
 .content {
     display: flex;
     flex-direction: column;
-    gap: var(--spacing-300, 24px);
     padding: var(--spacing-400, 32px);
 }
 
@@ -144,7 +143,7 @@ main {
         flex-direction: row;
         align-items: stretch;
         max-width: 900px;
-        max-height: 550px;
+        max-height: 490px;
     }
 
     .image,
@@ -162,6 +161,7 @@ main {
     }
 
     .top-content {
+        padding-bottom: 0;
         max-width: 300px;
     }
 }
